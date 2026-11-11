@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "crazywaterworld:block/clam_opener" },
+		"facing=east": { "model": "crazywaterworld:block/clam_opener", "y": 90 },
+		"facing=south": { "model": "crazywaterworld:block/clam_opener", "y": 180 },
+		"facing=west": { "model": "crazywaterworld:block/clam_opener", "y": 270 }
+	}
+}

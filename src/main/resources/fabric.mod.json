@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "crazywaterworld",
+	"version": "${version}",
+	"name": "疯狂水世界",
+	"description": "钓鱼、卖钱、开河蚌，先赚到 10 万金币的人获胜。",
+	"authors": [],
+	"license": "All-Rights-Reserved",
+	"icon": "assets/crazywaterworld/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.crazywaterworld.CrazyWaterWorld"
+		],
+		"client": [
+			"com.crazywaterworld.client.CrazyWaterWorldClient"
+		]
+	},
+	"mixins": ["crazywaterworld.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modernui": "*",
+		"forgeconfigapiport": "*"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"itemGroup.crazywaterworld": "疯狂水世界",
+	"item.crazywaterworld.smelly_shoe": "臭皮鞋",
+	"item.crazywaterworld.waste_filter": "废水过滤器",
+	"item.crazywaterworld.sea_filter": "海水过滤器",
+	"item.crazywaterworld.electric_eel": "电鳗",
+	"item.crazywaterworld.clam": "河蚌",
+	"item.crazywaterworld.river_pearl": "河珠",
+	"item.crazywaterworld.eel_generator": "电鳗发电机",
+	"item.crazywaterworld.ancient_pearl": "远古海珠",
+	"item.crazywaterworld.basic_appraisal": "初级鉴定仪",
+	"item.crazywaterworld.advanced_appraisal": "中级鉴定仪",
+	"item.crazywaterworld.expert_appraisal": "高级鉴定仪",
+	"block.crazywaterworld.clam_opener": "开蚌台",
+	"block.crazywaterworld.salvage_net": "打捞网",
+	"key.crazywaterworld.open_shop": "打开商店",
+	"key.categories.crazywaterworld": "疯狂水世界",
+	"item.crazywaterworld.clam_body_visual": "蚌壳",
+	"item.crazywaterworld.clam_lid_visual": "蚌盖"
+}

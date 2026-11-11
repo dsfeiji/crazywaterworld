@@ -1,0 +1,20 @@
+{
+	"itemGroup.crazywaterworld": "Crazy Water World",
+	"item.crazywaterworld.smelly_shoe": "Smelly Shoe",
+	"item.crazywaterworld.waste_filter": "Wastewater Filter",
+	"item.crazywaterworld.sea_filter": "Seawater Filter",
+	"item.crazywaterworld.electric_eel": "Electric Eel",
+	"item.crazywaterworld.clam": "Clam",
+	"item.crazywaterworld.clam_body_visual": "Clam Shell",
+	"item.crazywaterworld.clam_lid_visual": "Clam Lid",
+	"item.crazywaterworld.river_pearl": "River Pearl",
+	"item.crazywaterworld.eel_generator": "Eel Generator",
+	"item.crazywaterworld.ancient_pearl": "Ancient Sea Pearl",
+	"item.crazywaterworld.basic_appraisal": "Basic Appraiser",
+	"item.crazywaterworld.advanced_appraisal": "Advanced Appraiser",
+	"item.crazywaterworld.expert_appraisal": "Expert Appraiser",
+	"block.crazywaterworld.clam_opener": "Clam Opening Bench",
+	"block.crazywaterworld.salvage_net": "Salvage Net",
+	"key.crazywaterworld.open_shop": "Open Shop",
+	"key.categories.crazywaterworld": "Crazy Water World"
+}
